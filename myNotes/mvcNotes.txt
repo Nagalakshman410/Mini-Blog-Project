@@ -1,0 +1,6 @@
+MVC Basics
+
+* Stands for Model, View, Controller
+* MVC is a way of structuring our code
+* Keeps the code more modular, reusable and easier to read
+
